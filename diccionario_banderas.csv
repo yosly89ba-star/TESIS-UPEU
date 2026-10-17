@@ -1,0 +1,6 @@
+﻿"bandera","definicion","n"
+"flag_multiple_titulo","La persona aparece en más de un registro (doble titulación o programa conjunto).",72
+"flag_nota_baja","Nota promedio entre 7 y 10.5.",282
+"flag_creditos_invalidos","Peruana Unión con menos de 150 créditos, o más de 400 créditos fuera de Medicina con valor no uniforme en el programa.",878
+"flag_creditos_revisar","Créditos menores a 200 que no están marcados como inválidos.",821
+"flag_edad_extrema","Edad al egreso de 60 años o más.",116
